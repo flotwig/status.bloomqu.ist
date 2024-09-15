@@ -22,18 +22,20 @@
     "url": "https://np.chary.us",
     "icon": "https://icons.duckduckgo.com/ip3/np.chary.us.ico",
     "slug": "spotify-now-playing",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 193,
     "timeDay": 197,
     "timeWeek": 200,
     "timeMonth": 193,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-15": 2
+    }
   },
   {
     "name": "weeny.chary.us",
@@ -58,7 +60,7 @@
     "url": "https://niftyhost.chary.us/support",
     "icon": "https://icons.duckduckgo.com/ip3/niftyhost.chary.us.ico",
     "slug": "nifty-host-forums-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 370,
     "timeMonth": 341,
     "timeYear": 341,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-15": 0
+    }
   },
   {
     "name": "IRIDESCENT STUDIO",
